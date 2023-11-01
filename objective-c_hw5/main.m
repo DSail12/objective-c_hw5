@@ -1,4 +1,3 @@
-//
 //  main.m
 //  objective-c_hw5
 //
